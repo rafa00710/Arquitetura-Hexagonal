@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/arquitetura-hexagonal-master/arquitetura-hexagonal.iml" filepath="$PROJECT_DIR$/arquitetura-hexagonal-master/arquitetura-hexagonal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/arquitetura-hexagonal-master.iml" filepath="$PROJECT_DIR$/.idea/arquitetura-hexagonal-master.iml" />
+    </modules>
+  </component>
+</project>
